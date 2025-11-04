@@ -1,5 +1,5 @@
 
-**UAV–RIS–ISAC System Optimization with DRL
+**UAV–RIS–ISAC System Optimization with DRL**
 
 <img width="726" height="534" alt="image" src="https://github.com/user-attachments/assets/23f65a79-ac4c-4dbc-b435-a9fa19dd2e7b" />
 
